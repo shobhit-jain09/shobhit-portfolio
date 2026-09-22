@@ -1,0 +1,4 @@
+.claude/
+serve.bat
+node_modules/
+.DS_Store
